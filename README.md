@@ -23,10 +23,13 @@ completion(); // Needed for shortcuts app.
 ```
 
 To execute custom javascript on safari webpages, you have to create a shortcut in the *Shortcuts* app. Download it on the app store.
-![Create a shortcut and add the following content.](https://i.imgur.com/BUajupu.png)
-![Add the shortcut to the sharing screen and allow safari webpages.](https://i.imgur.com/nC7yy7J.png)
-![After creating the shortcut, navigate to airconsole.com in safari and press the share button.](https://i.imgur.com/RxQX230.jpg)
-![Activate the shortcut we just created in the previous steps.](https://i.imgur.com/kCSww14.jpg)
+
+1. Create a shortcut and add the javascript above.
+2. Add the shortcut to the sharing screen and allow safari webpages.
+3. After creating the shortcut, navigate to airconsole.com in safari and press the share button.
+4. Activate the shortcut we just created in the previous steps.
+
+![Instructions](https://i.imgur.com/cfx3X1v.png)
 
 ## Android
 This is only possible via [airconsole.com](https://airconsole.com/) in the browser, not in the app.
