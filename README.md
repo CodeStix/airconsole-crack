@@ -5,7 +5,7 @@ The following code must be executed on the client size.
 
 ## PC Browser
 ```js
-// Execute the following code in the javascript console.'
+// Execute the following code in the javascript console.
 // After executing, you are the hero, every device should be notified about this.
 window.app.becomePremium();
 ```
@@ -31,7 +31,7 @@ To execute custom javascript on safari webpages, you have to create a shortcut i
 ## Android
 This is only possible via [airconsole.com](https://airconsole.com/) in the browser, not in the app.
 
-I didn't test this on any android phone, but find a way to execute the following javascript code.
+I didn't test this on any android device, but find a way to execute the following javascript code.
 ```js
 // After executing, you are the hero, every device should be notified about this.
 window.app.becomePremium();
