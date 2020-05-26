@@ -1,7 +1,8 @@
 # AirConsole Crack
 
 The following steps allow you to use the AirConsole platform in **Hero** mode for free.
-The following code must be executed on the client size.
+
+:warning: The following code **MUST** be executed on the client/controller size (**NOT** on screen!). 
 
 ## PC Browser
 ```js
