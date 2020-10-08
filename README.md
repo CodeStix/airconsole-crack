@@ -1,3 +1,5 @@
+## :warning: This exploit doest not work anymore, it got patched.
+
 # AirConsole Crack
 
 The following steps allow you to use the AirConsole platform in **Hero** mode for free.
