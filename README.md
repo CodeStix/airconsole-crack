@@ -1,4 +1,4 @@
-## :warning: This exploit doest not work anymore, it got patched.
+## :warning: This exploit does not work anymore, it got patched.
 
 # AirConsole Crack
 
